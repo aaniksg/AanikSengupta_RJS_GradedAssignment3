@@ -1,0 +1,1437 @@
+{
+  "movies-coming": [
+    {
+      "id": "1",
+      "title": "Game Night",
+      "year": "2018",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "contentRating": "R",
+      "duration": "PT100M",
+      "releaseDate": "2018-02-28",
+      "averageRating": 6.9,
+      "originalTitle": "Game Night",
+      "storyline": "A group of friends who meet regularly for game nights find themselves trying to solve a murder mystery.",
+      "actors": [
+        "Rachel McAdams",
+        "Jesse Plemons",
+        "Jason Bateman"
+      ],
+      "imdbRating": 7.9,
+      "posterurl": "https://m.media-amazon.com/images/M/MV5BMjI3ODkzNDk5MF5BMl5BanBnXkFtZTgwNTEyNjY2NDM@._V1_.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Area X: Annihilation",
+      "year": "2018",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "contentRating": "R",
+      "duration": "PT100M",
+      "releaseDate": "2018-02-23",
+      "averageRating": 5.4,
+      "originalTitle": "Annihilation",
+      "storyline": "A biologist's husband disappears. She puts her name forward for an expedition into an environmental disaster zone, but does not find what she's expecting. The expedition team is made up of the biologist, an anthropologist, a psychologist, a surveyor, and a linguist.",
+      "actors": [
+        "Tessa Thompson",
+        "Jennifer Jason Leigh",
+        "Natalie Portman"
+      ],
+      "imdbRating": 8.7,
+      "posterurl": "https://images.saymedia-content.com/.image/t_share/MTc2Nzk3NTcyMzMyMDcwNDgz/movies-like-annihilation.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Hannah",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Adventure",
+        "Action"
+      ],
+      "contentRating": "R",
+      "duration": "PT95M",
+      "releaseDate": "2018-01-24",
+      "averageRating": 6.4,
+      "originalTitle": "Hannah",
+      "storyline": "Intimate portrait of a woman drifting between reality and denial when she is left alone to grapple with the consequences of her husband's imprisonment.",
+      "actors": [
+        "Charlotte Rampling",
+        "André Wilms",
+        "Stéphanie Van Vyve"
+      ],
+      "imdbRating": 6.5,
+      "posterurl": "https://m.media-amazon.com/images/M/MV5BMzE2NzU0Y2MtYjRkZi00ZjNmLThhMzMtN2NhMjkyNzMwZjQ4XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg"
+    },
+    {
+      "id": "4",
+      "title": "The Lodgers",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Romance"
+      ],
+      "contentRating": "R",
+      "duration": "PT92M",
+      "releaseDate": "2018-03-09",
+      "averageRating": 5.7,
+      "originalTitle": "The Lodgers",
+      "storyline": "1920, rural Ireland. Anglo Irish twins Rachel and Edward share a strange existence in their crumbling family estate. Each night, the property becomes the domain of a sinister presence (The Lodgers) which enforces three rules upon the twins: they must be in bed by midnight; they may not permit an outsider past the threshold; if one attempts to escape, the life of the other is placed in jeopardy. When troubled war veteran Sean returns to the nearby village, he is immediately drawn to the mysterious Rachel, who in turn begins to break the rules set out by The Lodgers. The consequences pull Rachel into a deadly confrontation with her brother - and with the curse that haunts them.",
+      "actors": [
+        "Charlotte Vega",
+        "David Bradley",
+        "Moe Dunford"
+      ],
+      "imdbRating": 5.8,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BM2FhM2E1MTktMDYwZi00ODA1LWI0YTYtN2NjZjM3ODFjYmU5XkEyXkFqcGdeQXVyMjY1ODQ3NTA@._V1_SY500_CR0,0,337,500_AL_.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Beast of Burden",
+      "year": "2018",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "contentRating": "R",
+      "duration": "PT119M",
+      "releaseDate": "2018-02",
+      "averageRating": 5.3,
+      "originalTitle": "Beast of Burden",
+      "storyline": "Sean Haggerty only has an hour to deliver his illegal cargo. An hour to reassure a drug cartel, a hitman, and the DEA that nothing is wrong. An hour to make sure his wife survives. And he must do it all from the cockpit of his Cessna.",
+      "actors": [
+        "Daniel Radcliffe",
+        "Grace Gummer",
+        "Pablo Schreiber"
+      ],
+      "imdbRating": 6.8,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyNTM3MDQ2NV5BMl5BanBnXkFtZTgwMDI5Nzk1NDM@._V1_SY500_CR0,0,336,500_AL_.jpg"
+    },
+    {
+      "id": "6",
+      "title": "The Chamber",
+      "year": "2016",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Action"
+      ],
+      "contentRating": "R",
+      "duration": "PT88M",
+      "releaseDate": "2017-03-10",
+      "averageRating": 4.8,
+      "originalTitle": "The Chamber",
+      "storyline": "A claustrophobic survival thriller set beneath the Yellow Sea off the coast of North Korea where the pilot of a small submersible craft and a three man Special Ops team on a secret recovery mission become trapped underwater in a fight for survival.",
+      "actors": [
+        "Johannes Kuhnke",
+        "Charlotte Salt",
+        "James McArdle"
+      ],
+      "imdbRating": 4.4,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTVlODgwMjgtZGUzMy00ZTY1LWIyMDEtYTI2Y2JlYzVjZTNkXkEyXkFqcGdeQXVyNTg0MDM1MzY@._V1_SY500_CR0,0,337,500_AL_.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Survivors Guide to Prison",
+      "year": "2018",
+      "genres": [
+        "Documentary",
+        "Thriller",
+        "Action"
+      ],
+      "contentRating": "PG",
+      "duration": "PT102M",
+      "releaseDate": "2018-02-23",
+      "averageRating": 6.2,
+      "originalTitle": "Survivors Guide to Prison",
+      "storyline": "Following the stories of Bruce Lisker and Reggie Cole who spent year after year in prison for murders they didn't commit - audiences get a harrowing look at how barbaric the US justice system is. The film ultimately asks how we can survive the prison model at all, and looks at better solutions for conflict resolution, harm reduction, crime and more. Hosted by filmmaker Matthew Cooke and guest hosting representatives from the massive range of Americans joining forces to change this broken system.                Written by\nanonymous",
+      "actors": [
+        "Susan Sarandon",
+        "Patricia Arquette",
+        "Danny Trejo"
+      ],
+      "imdbRating": 8.7,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzhmNmI5MDMtZDEyOC00ODkyLTkwODItODQzODAzY2QyZjVlXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY500_CR0,0,357,500_AL_.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Red Sparrow",
+      "year": "2018",
+      "genres": [
+        "Mystery",
+        "Thriller",
+        "Action"
+      ],
+      "contentRating": "R",
+      "duration": "PT139M",
+      "releaseDate": "2018-03-02",
+      "averageRating": 5.9,
+      "originalTitle": "Red Sparrow",
+      "storyline": "A young Russian intelligence officer is assigned to seduce a first-tour CIA agent who handles the CIA's most sensitive penetration of Russian intelligence. The two young officers collide in a charged atmosphere of trade-craft, deception, and inevitably forbidden passion that threatens not just their lives but the lives of others as well.",
+      "actors": [
+        "Jennifer Lawrence",
+        "Joel Edgerton",
+        "Charlotte Rampling"
+      ],
+      "imdbRating": 5.5,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA3MDkxOTc4NDdeQTJeQWpwZ15BbWU4MDAxNzgyNTQz._V1_SY500_CR0,0,337,500_AL_.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Death Wish",
+      "year": "2018",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "contentRating": "R",
+      "duration": "PT108M",
+      "releaseDate": "2018-04-13",
+      "averageRating": 8.9,
+      "originalTitle": "Death Wish",
+      "storyline": "Dr. Paul Kersey (Bruce Willis) is a surgeon who only sees the aftermath of his city's violence as it's rushed into his ER -until his wife (Elisabeth Shue) and college-age daughter (Camila Morrone) are viciously attacked in their suburban home. With the police overloaded with crimes, Paul, burning for revenge, hunts for his family's assailants to deliver justice. As the anonymous slayings of criminals grabs the media's attention, the city wonders if this deadly avenger is a guardian angel...or a grim reaper. Fury and fate collide in the intense action-thriller Death Wish.",
+      "actors": [
+        "Bruce Willis",
+        "Vincent D'Onofrio",
+        "Elisabeth Shue"
+      ],
+      "imdbRating": 7.8,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzNjU3MjE0MF5BMl5BanBnXkFtZTgwNTIyNDk0NDM@._V1_SY400_SX270_AL_.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Foxtrot",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Action",
+        "Thriller"
+      ],
+      "contentRating": "R",
+      "duration": "PT108M",
+      "releaseDate": "2017-09-21",
+      "averageRating": 5.7,
+      "originalTitle": "Foxtrot",
+      "storyline": "A troubled family face the facts when something goes terribly wrong at their son's desolate military post.",
+      "actors": [
+        "Lior Ashkenazi",
+        "Sarah Adler",
+        "Yonaton Shiray"
+      ],
+      "imdbRating": 7.4,
+      "posterurl": "https://upload.wikimedia.org/wikipedia/en/d/db/Foxtrot_%282017_film%29.jpg"
+    },
+    {
+      "id": "11",
+      "title": "They Remain",
+      "year": "2018",
+      "genres": [
+        "Thriller",
+        "Action",
+        "Adventure"
+      ],
+      "contentRating": "PG-13",
+      "duration": "PT102M",
+      "releaseDate": "2018-01-28",
+      "averageRating": 6.3,
+      "originalTitle": "They Remain",
+      "storyline": "Two scientists who share a romantic history are tasked with investigating unnatural animal behaviour on the site of a Manson Family-style cult's compound.",
+      "actors": [
+        "William Jackson Harper",
+        "Rebecca Henderson"
+      ],
+      "imdbRating": 7.6,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI0NTEzMTk1OV5BMl5BanBnXkFtZTgwNTMwNDY3NDM@._V1_SY500_CR0,0,349,500_AL_.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Submission",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Adventure",
+        "Action"
+      ],
+      "contentRating": "PG",
+      "duration": "PT103M",
+      "releaseDate": "2017-10-13",
+      "averageRating": 8.6,
+      "originalTitle": "Submission",
+      "storyline": "A cynical college professor takes a keen interest in a talented young writing student.",
+      "actors": [
+        "Stanley Tucci",
+        "Addison Timlin",
+        "Kyra Sedgwick"
+      ],
+      "imdbRating": 6.1,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ4NDkwMzM4OF5BMl5BanBnXkFtZTgwNzE3MzI3NDM@._V1_SY500_CR0,0,337,500_AL_.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Souvenir",
+      "year": "2016",
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "contentRating": "R",
+      "duration": "PT90M",
+      "releaseDate": "2017-05-19",
+      "averageRating": 5.5,
+      "originalTitle": "Souvenir",
+      "storyline": "Because of the stupid life in a pâté-factory, former singer Laura falls in love with a colleague, a much younger boy and boxer, and after a small performance, a reenactment of her singing character, she tries to reenter the national song contest.                Written by\nimperiumclassicum",
+      "actors": [
+        "Isabelle Huppert",
+        "Kévin Azaïs",
+        "Johan Leysen"
+      ],
+      "imdbRating": 6.1,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmJkZjVhNGUtOTg4MC00YzAwLTg4ZjEtZjAxYmVlNTlkOTgyXkEyXkFqcGdeQXVyNTQwMDA5NTg@._V1_SY500_CR0,0,333,500_AL_.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Dance Academy",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "contentRating": "PG",
+      "duration": "PT101M",
+      "releaseDate": "2017-04-06",
+      "averageRating": 6.5,
+      "originalTitle": "",
+      "storyline": "This 2017 movie follows the original dance academy TV show and tracks where the characters are in their lives now.",
+      "actors": [
+        "Alex Acosta",
+        "Alicia Banit",
+        "Chris Bartlett"
+      ],
+      "imdbRating": 7.8,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjg2MzMwYmYtNjkwMS00N2VmLWI2MDMtMDA2ZjZiMDBkZDk1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTg3ODAyOTY@._V1_SY500_SX400_AL_.jpg"
+    },
+    {
+      "id": "15",
+      "title": "A Wrinkle in Time",
+      "year": "2018",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "contentRating": "PG",
+      "duration": "PT104M",
+      "releaseDate": "2018-04-06",
+      "averageRating": 8.3,
+      "originalTitle": "A Wrinkle in Time",
+      "storyline": "Following the discovery of a new form of space travel as well as Meg's father's disappearance, she, her brother, and her friend must join three magical beings - Mrs. Whatsit, Mrs. Who, and Mrs. Which - to travel across the universe to rescue him from a terrible evil.",
+      "actors": [
+        "Gugu Mbatha-Raw",
+        "Reese Witherspoon",
+        "Chris Pine"
+      ],
+      "imdbRating": 8.5,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMxNjQ5MTI3MV5BMl5BanBnXkFtZTgwMjQ2MTAyNDM@._V1_SY500_CR0,0,337,500_AL_.jpg"
+    }
+  ],
+  "movies-in-theaters": [
+    {
+      "id": "16",
+      "title": "Black Panther",
+      "year": "2018",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "contentRating": "R",
+      "duration": "PT134M",
+      "releaseDate": "2018-02-14",
+      "averageRating": 8.2,
+      "originalTitle": "Black Panther",
+      "storyline": "After the events of Captain America: Civil War, King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne from factions within his own country. When two foes conspire to destroy Wakanda, the hero known as Black Panther must team up with C.I.A. agent Everett K. Ross and members of the Dora Milaje, Wakandan special forces, to prevent Wakanda from being dragged into a world war.",
+      "actors": [
+        "Chadwick Boseman",
+        "Michael B. Jordan",
+        "Lupita Nyong'o"
+      ],
+      "imdbRating": 7.3,
+      "posterurl": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_.jpg"
+    },
+    {
+      "id": "17",
+      "title": "Grottmannen Dug",
+      "year": "2018",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "contentRating": "PG",
+      "duration": "PT89M",
+      "releaseDate": "2018-03-23",
+      "averageRating": 5.8,
+      "originalTitle": "Grottmannen Dug",
+      "storyline": "Set at the dawn of time, when prehistoric creatures and woolly mammoths roamed the earth, Early Man tells the story of Dug, along with sidekick Hognob as they unite his tribe against a mighty enemy Lord Nooth and his Bronze Age City to save their home.",
+      "actors": [
+        "Tom Hiddleston",
+        "Eddie Redmayne",
+        "Maisie Williams"
+      ],
+      "imdbRating": 6.3,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWMxYWVjNzAtMTY0YS00YWQyLWExMGItMjUxODkwYzQyNzMwXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SY500_CR0,0,328,500_AL_.jpg"
+    },
+    {
+      "id": "18",
+      "title": "Aiyaary",
+      "year": "2018",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "contentRating": "PG",
+      "duration": "PT157M",
+      "releaseDate": "2018-02-16",
+      "averageRating": 7.3,
+      "originalTitle": "",
+      "storyline": "Two officers with patriotic hearts suddenly have a fallout. The mentor, Colonel Abhay Singh has complete faith in the country's system while protégé Major Jai Bakshi thinks differently due to a recent stint in surveillance.",
+      "actors": [
+        "Anupam Kher",
+        "Sidharth Malhotra",
+        "Naseeruddin Shah"
+      ],
+      "imdbRating": 8.2,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI1NTk0NTc1OV5BMl5BanBnXkFtZTgwNTMwMTE4NDM@._V1_SY500_CR0,0,281,500_AL_.jpg"
+    },
+    {
+      "id": "19",
+      "title": "Samson",
+      "year": "2018",
+      "genres": [
+        "Action",
+        "Drama",
+        "Adventure"
+      ],
+      "contentRating": "PG-13",
+      "duration": "PT104M",
+      "releaseDate": "2018-02-16",
+      "averageRating": 5.6,
+      "originalTitle": "",
+      "storyline": "A Hebrew with an unusual gift of strength must respond properly to the call of God on his life in order to lead his people out of enslavement. After his youthful ambition leads to a tragic marriage, his acts of revenge thrust him into direct conflict with the Philistine army. As his brother mounts a tribal rebellion, only Samson's relationship with a Philistine seductress and his final surrender - both to the Philistines and to God - turns imprisonment and blindness into final victory.                Written by\nPure Flix",
+      "actors": [
+        "Jackson Rathbone",
+        "Billy Zane",
+        "Taylor James"
+      ],
+      "imdbRating": 5.5,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BYThiMjg4ZDAtNjk5ZS00ZTUxLThmM2ItMGI0ZTE1NjRhNWNmXkEyXkFqcGdeQXVyNTQ3MjE4NTU@._V1_SY500_CR0,0,334,500_AL_.jpg"
+    },
+    {
+      "id": "20",
+      "title": "Loveless",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Action",
+        "Adventure"
+      ],
+      "contentRating": "R",
+      "duration": "PT127M",
+      "releaseDate": "2017-06-01",
+      "averageRating": 5.8,
+      "originalTitle": "Nelyubov",
+      "storyline": "Still living under the same roof, the Moscow couple of Boris and Zhenya is in the terrible final stages of a bitter divorce. Under those circumstances, as both have already found new partners, the insults pour down like rain in this toxic familial battle zone, always pivoting around the irresolvable and urgent matter of Alyosha's custody, their 12-year-old only son. Unheard, unloved, and above all, unwanted, the introverted and unhappy boy feels that he is an intolerable burden, however, what his parents don't know is that he can hear every single word. As a result, when Boris and Zhenya finally realize that Alyosha has been missing for nearly two days, it is already too late. But is this a simple case of a runaway teenager?  Written by Nick Riganas",
+      "actors": [
+        "Maryana Spivak",
+        "Aleksey Rozin",
+        "Matvey Novikov"
+      ],
+      "imdbRating": 7.8,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzU3ODQ3MzQ5Nl5BMl5BanBnXkFtZTgwMDQwMDIzNDM@._V1_SY500_CR0,0,338,500_AL_.jpg"
+    },
+    {
+      "id": "21",
+      "title": "L'Amant Double",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Thriller"
+      ],
+      "contentRating": "R",
+      "duration": "PT107M",
+      "releaseDate": "2017-05-26",
+      "averageRating": 4.5,
+      "originalTitle": "",
+      "storyline": "Disenchanted with the ephemeral glamour of the modelling world, Chloé, a vulnerable Parisian woman of 25, is convinced that the severe and persistent abdominal pains she's been suffering, stem mainly from a psychosomatic disorder. As a result, the reserved beauty will soon find herself on the couch of the charming therapist, Dr Paul Meyer, nevertheless, the mutual and unfailing sexual attraction between them will make it impossible to continue with the therapy. Before long, the ecstatic, yet unexplored lovers will move in together, however, Paul's obscure past will inevitably lead Chloé to the conclusion that there's definitely more to him than meets the eye. Is the doe-eyed woman lured into a world of hallucinations and dream-like sequences?                Written by\nNick Riganas",
+      "actors": [
+        "Marine Vacth",
+        "Jérémie Renier",
+        "Jacqueline Bisset"
+      ],
+      "imdbRating": 6.2,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5NjUyMzAyOV5BMl5BanBnXkFtZTgwMTU4Njk2NDM@._V1_SY500_CR0,0,337,500_AL_.jpg"
+    },
+    {
+      "id": "22",
+      "title": "The Party",
+      "year": "2017",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Action"
+      ],
+      "contentRating": "PG-13",
+      "duration": "PT71M",
+      "releaseDate": "2018-01-05",
+      "averageRating": 8.9,
+      "originalTitle": "",
+      "storyline": "To celebrate her long-awaited prestigious post as a Shadow Minister for Health and, hopefully, the stepping stone to party leadership, the newly-appointed British opposition politician, Janet, is throwing a party for friends at her London flat. Of course, in this select and intimate soirée, apart from Bill--Janet's self-denying academic husband--a motley crew of elite hand-picked guests have been invited: There's April, the sourly cynical American best friend; her unlikely German husband, Gottfried; there's also Jinny and Martha; and finally, Tom, the smooth banker in the impeccable suit. But inevitably, before dinner is served, the upbeat ambience will shatter to pieces, as festering secrets will start surfacing in this perfect domestic war-zone. Undoubtedly, after this night, things will never be the same again.                Written by\nNick Riganas",
+      "actors": [
+        "Timothy Spall",
+        "Kristin Scott Thomas",
+        "Patricia Clarkson"
+      ],
+      "imdbRating": 6.7,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwMTU5MzY4NF5BMl5BanBnXkFtZTgwNTY2NTkxNDM@._V1_SY500_CR0,0,337,500_AL_.jpg"
+    },
+    {
+      "id": "23",
+      "title": "The Boy Downstairs",
+      "year": "2017",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "contentRating": "PG-13",
+      "duration": "PT91M",
+      "releaseDate": "2018-02-16",
+      "averageRating": 5.8,
+      "originalTitle": "",
+      "storyline": "A young woman is forced to reflect on her first relationship when she inadvertently moves into her ex-boyfriend's apartment building.",
+      "actors": [
+        "Zosia Mamet",
+        "Matthew Shear",
+        "Deirdre O'Connell"
+      ],
+      "imdbRating": 6.9,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjZiNzgzNjUtOWE0Ni00MWFmLTliZDEtNWRkMzc5ZTA2MWM1XkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SY500_CR0,0,337,500_AL_.jpg"
+    },
+    {
+      "id": "24",
+      "title": "Nostalgia",
+      "year": "2018",
+      "genres": [
+        "Drama",
+        "Action",
+        "Adventure"
+      ],
+      "contentRating": "R",
+      "duration": "PT114M",
+      "releaseDate": "2018-02-16",
+      "averageRating": 7.7,
+      "originalTitle": "",
+      "storyline": "A mosaic of stories about love and loss, 'Nostalgia' explores our relationships to the objects, artifacts, and memories that shape our lives.",
+      "actors": [
+        "Hugo Armstrong",
+        "Shinelle Azoroh",
+        "Annalise Basso"
+      ],
+      "imdbRating": 6.6,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTc0MjI4YTktY2NkYi00YzgwLWIxNDItYWIyNjAwMWNlMGUzXkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_SY500_CR0,0,337,500_AL_.jpg"
+    },
+    {
+      "id": "25",
+      "title": "Oh Lucy!",
+      "year": "2017",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Action"
+      ],
+      "contentRating": "R",
+      "duration": "PT95M",
+      "releaseDate": "2018-03-02",
+      "averageRating": 5.6,
+      "originalTitle": "",
+      "storyline": "The drama-comedy tells the story of Setsuko Kawashima (Terajima), a lonely, chain-smoking office lady in Tokyo who is past her prime. After deciding to take an English class, she discovers a new identity in her American alter ego, 'Lucy,' and falls for her instructor, John (Hartnett). When John suddenly disappears, Setsuko earnestly sets out on a quest to find him, eventually leading her to the outskirts of Southern California.                Written by\nOh Lucy!",
+      "actors": [
+        "Shinobu Terajima",
+        "Josh Hartnett",
+        "Kaho Minami"
+      ],
+      "imdbRating": 6.8,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzMjcwMDExOV5BMl5BanBnXkFtZTgwMjU4Njk2NDM@._V1_SY377_CR0,0,254,377_AL_.jpg"
+    },
+    {
+      "id": "26",
+      "title": "Tehran Taboo",
+      "year": "2017",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Music"
+      ],
+      "contentRating": "A",
+      "duration": "PT90M",
+      "releaseDate": "2017-11-16",
+      "averageRating": 6.8,
+      "originalTitle": "",
+      "storyline": "In their desperate search for freedom and happiness, four young people from Tehran, Iran are forced to break the taboos of a restrictive, islamic society.",
+      "actors": [
+        "Farhad Abadinejad",
+        "Jasmina Ali",
+        "Rozita Assadollahy"
+      ],
+      "imdbRating": 7.1,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDM0OTZlOWQtZGU0My00MmIxLTk0N2ItMjU3OGY0ODRlODYxXkEyXkFqcGdeQXVyNTQ0NjIwNDU@._V1_SY500_CR0,0,353,500_AL_.jpg"
+    },
+    {
+      "id": "27",
+      "title": "The Monkey King",
+      "year": "2018",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "contentRating": "PG-13",
+      "duration": "PT103M",
+      "releaseDate": "2018-02-16",
+      "averageRating": 8.6,
+      "originalTitle": "",
+      "storyline": "The third installment of the blockbuster fantasy series sees the return of the Monkey King (Aaron Kwok) in his most action-packed adventure yet! While continuing their epic journey to the West, the Monkey King and his companions are taken captive by the Queen of an all-female land, who believes them to be part of an ancient prophecy heralding the fall of her kingdom. With a lot of sorcery and a little bit of charm, the travelers devise a plan to escape. But when their trickery angers the mighty River God, they realize they might just bring about the foretold destruction - unless they can find a way to quell her wrath.",
+      "actors": [
+        "Aaron Kwok",
+        "William Feng",
+        "Zanilia Zhao"
+      ],
+      "imdbRating": 8.4,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDM1MzZjNDUtNDBmMC00M2M5LTg0NDQtN2ExMjQ1Zjc0ZTE0XkEyXkFqcGdeQXVyNjMyMDA1ODM@._V1_SY500_CR0,0,357,500_AL_.jpg"
+    },
+    {
+      "id": "28",
+      "title": "Mind Game",
+      "year": "2004",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "contentRating": "PG",
+      "duration": "PT103M",
+      "releaseDate": "2004-07-28",
+      "averageRating": 5.8,
+      "originalTitle": "",
+      "storyline": "The film follows Nishi, a loser who has a crush on his childhood girlfriend. After an encounter with the Japanese mafia, the film follows Nishi as he journeys to heaven and back, and ends up trapped in an even more unlikely place. Nishi (and some friends) attempt to break out of their trap, and discover what it truly means to be alive along the way. This is a mind-bending trip that uses some of the most innovative animation ever created.                Written by\nanimenewsnetwork.com",
+      "actors": [
+        "Kôji Imada",
+        "Sayaka Maeda",
+        "Takashi Fujii"
+      ],
+      "imdbRating": 7.9,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzFlMDI1ZjctMzgzYy00YmVkLTlmMTMtNDZmZmVmMzk3MzNhXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_SY500_CR0,0,381,500_AL_.jpg"
+    },
+    {
+      "id": "29",
+      "title": "Western",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Adventure",
+        "Family"
+      ],
+      "contentRating": "PG-13",
+      "duration": "PT119M",
+      "releaseDate": "2017-08-24",
+      "averageRating": 6.6,
+      "originalTitle": "",
+      "storyline": "A group of German construction workers start a tough job at a remote site in the Bulgarian countryside. The foreign land awakens the men's sense of adventure, but they are also confronted with their own prejudice and mistrust due to the language barrier and cultural differences. The stage is quickly set for a showdown when men begin to compete for recognition and favor from the local villagers.",
+      "actors": [
+        "Meinhard Neumann",
+        "Reinhardt Wetrek",
+        "Syuleyman Alilov Letifov"
+      ],
+      "imdbRating": 7.2,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDRkZGUxZmEtZDdiZC00NGJmLWFiODAtN2RiMzY3ODhjNTNmXkEyXkFqcGdeQXVyMTg5MDEyNw@@._V1_SY500_CR0,0,341,500_AL_.jpg"
+    },
+    {
+      "id": "30",
+      "title": "Fifty Shades Freed",
+      "year": "2018",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Thriller"
+      ],
+      "contentRating": "R",
+      "duration": "PT105M",
+      "releaseDate": "2018-02-09",
+      "averageRating": 7.8,
+      "originalTitle": "",
+      "storyline": "Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.                Written by\nOfficial Synopsis",
+      "actors": [
+        "Dakota Johnson",
+        "Jamie Dornan",
+        "Eric Johnson"
+      ],
+      "imdbRating": 4.2,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxOTQ1MzI0Nl5BMl5BanBnXkFtZTgwMzgwMzIxNDM@._V1_SY500_CR0,0,315,500_AL_.jpg"
+    }
+  ],
+  "top-rated-india": [
+    {
+      "id": "31",
+      "title": "Anand",
+      "year": "1971",
+      "genres": [
+        "Drama",
+        "Family",
+        "Music"
+      ],
+      "contentRating": "R",
+      "duration": "PT122M",
+      "releaseDate": "1971-03-12",
+      "averageRating": 9.8,
+      "originalTitle": "",
+      "storyline": "A melodramatic tale of a man with a terminal disease. The story begins with Dr Bhaksar winning a literary prize for his book about a patient called Anand. The rest is flashback. Anand, the title character, is suffering from lymphosarcoma of the intestine. He, however appears to be cheerful on the outside and is determined to extract as much pleasure from his remaining lifespan as is possible. Dr. Bhaskar his physician tends to Anand in his last days. After Anand dies we can however still hear his voice which was recorded on a tape. Dr Bhakser writes a book on his patient and wins a literary prize for it                Written by\nAnonymous",
+      "actors": [
+        "Rajesh Khanna",
+        "Amitabh Bachchan",
+        "Sumita Sanyal"
+      ],
+      "imdbRating": 8.9,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/aeacb0bc5e8b2c013634fe4d0a916d7c819637eeb10bfb4267a103b9073bafdc._RI_TTW_.jpg"
+    },
+    {
+      "id": "32",
+      "title": "Dangal",
+      "year": "2016",
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "contentRating": "R",
+      "duration": "PT161M",
+      "releaseDate": "2016-12-23",
+      "averageRating": 8.5,
+      "originalTitle": "",
+      "storyline": "Biopic of Mahavir Singh Phogat, who taught wrestling to his daughters Babita Kumari and Geeta Phogat. Geeta Phogat was India's first female wrestler to win at the 2010 Commonwealth Games, where she won the gold medal (55 kg) while her sister Babita Kumari won the silver (52 kg).                Written by\nDibyayan_Chakravorty",
+      "actors": [
+        "Aamir Khan",
+        "Sakshi Tanwar",
+        "Fatima Sana Shaikh"
+      ],
+      "imdbRating": 8.9,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_SY500_CR0,0,356,500_AL_.jpg"
+    },
+    {
+      "id": "33",
+      "title": "Drishyam",
+      "year": "2013",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "contentRating": "PG",
+      "duration": "PT160M",
+      "releaseDate": "2013-12-19",
+      "averageRating": 5.8,
+      "originalTitle": "",
+      "storyline": "Georgekutty (Mohanlal) is a cable TV network owner in a remote and hilly village in Kerala. He lives a happy life with his wife and 2 girls. The first half revolves around the depiction of their happy family. Anju (Ansiba), Georgekutty's daughter goes to a school trip in between the proceedings. After a few days a guy who had been at the school trip with her meets Anju. He blackmails her with a video of her that he had captured during the school trip. In the course of events he is accidentally killed by Rani (Meena) and Anju. Georgekutty on returning home is appraised of the events and thus begins a cat and mouse game as the murdered person is the son of IG Geeta Prabhakar (Asha Sharath) and Prabhakar (Siddique). How the family weathers the storm that ensues during the murder investigation forms the rest of the story leading to a deeply satisfying and unexpected climax.                Written by\nAthul",
+      "actors": [
+        "Mohanlal",
+        "Meena",
+        "Ansiba"
+      ],
+      "imdbRating": 8.9,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmY3MzYwMGUtOWMxYS00OGVhLWFjNmUtYzlkNGVmY2ZkMjA3XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_SX330_CR0,0,330,432_AL_.jpg"
+    },
+    {
+      "id": "34",
+      "title": "Nayakan",
+      "year": "1987",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Adventure"
+      ],
+      "contentRating": "R",
+      "duration": "PT145M",
+      "releaseDate": "1987-07-31",
+      "averageRating": 8.6,
+      "originalTitle": "",
+      "storyline": "A small boy (Ratnavelu) from Tamilnadu sees his father, a labor leader, killed in cold blood by a policeman. He kills the policeman and runs away to the city of Bombay. From there, the story traces his ascent to become a mafia chief (Velu Naicker).                Written by\nSathyanarayanan Narayanaswamy <sathya@ntd.comsat.com>",
+      "actors": [
+        "Kamal Haasan",
+        "Saranya Ponvannan",
+        "Delhi Ganesh"
+      ],
+      "imdbRating": 8.9,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0f80080fa17448c8e3d3beeb8c3aef611143b96fbbc0acf3e4975929d54e6354._RI_TTW_.jpg"
+    },
+    {
+      "id": "35",
+      "title": "Anbe Sivam",
+      "year": "2003",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "contentRating": "PG",
+      "duration": "PT160M",
+      "releaseDate": "2003-01-14",
+      "averageRating": 8.5,
+      "originalTitle": "",
+      "storyline": "Nallasivam (Kamal Haasan) and Anbarasu (Madhavan) are drawn together by the strings of fate after they come into contact at the Bhuvaneshwar airport. Anbarasu is an advertisement director, while Nallasivam is a trade unionist. Fate entwines their travel plans, and they end up travelling to Chennai together. In the course of their journey, Anbarasu, born with a golden spoon, is touched by the realities of the sufferings of a normal human being when he witnesses the dead and the injured during a train accident, and he volunteers to donate his blood, which is of a very rare group, despite his fear of blood. The flashback of Nallasivam is recounted during one of their journeys. Nallasivam is a communist trade unionist, who fights for higher wages for his comrades. By chance, he falls in love with the daughter Bala (Kiran) of a rich industrialist, Bala's father, Padaiyacchi (Nasser). Due to the opposition, they plan to elope and get married, but unfortunately, Nallasivam meets with an ...                Written by\nNiranjan Venkatraman <v.niranjan@ieee.org>",
+      "actors": [
+        "Kamal Haasan",
+        "Madhavan",
+        "Kiran Rathod"
+      ],
+      "imdbRating": 8.9,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/5c006d73f7093a7f915aedea2103de31524aa5579c4be6db608d4c3c1dd3743e._RI_TTW_.jpg"
+    },
+    {
+      "id": "36",
+      "title": "Gol Maal",
+      "year": "1979",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Family"
+      ],
+      "contentRating": "PG-13",
+      "duration": "PT144M",
+      "releaseDate": "1979-04-20",
+      "averageRating": 7.5,
+      "originalTitle": "",
+      "storyline": "Ramprasad is a recent college graduate who finds a job with a finicky man, Bhavani Shankar, who believes that a man without a mustache is a man without a character. Bhavani Shankar is also against any of his employees indulging in recreation of any kind. When Ramprasad is caught by his boss at a soccer match, he has to invent a twin brother, the clean-shaven Laxman Prasad, to save his job. When Bhavani's daughter falls in love with the clean-shaven Laxman Prasad, and insists on marrying him, and Bhavani insists she should marry Ramprasad, things take a whacky turn. A fake mother and a hilarious chase are other enjoyable features involved in this comedy.                Written by\nVijay",
+      "actors": [
+        "Amol Palekar",
+        "Bindiya Goswami",
+        "Deven Verma"
+      ],
+      "imdbRating": 8.7,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4OTczODgxNF5BMl5BanBnXkFtZTgwMDAzMTU2NDE@._V1_SY250_CR0,0,187,250_AL_.jpg"
+    },
+    {
+      "id": "37",
+      "title": "Black Friday",
+      "year": "2004",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "contentRating": "R",
+      "duration": "PT143M",
+      "releaseDate": "2007-02-09",
+      "averageRating": 7.6,
+      "originalTitle": "",
+      "storyline": "A dramatic presentation of the bomb blasts that rocked Bombay on March 12, 1993, displays the police investigation, amidst allegations of human rights violations, led by DCP Rakesh Maria, in tracking down the suspects, especially Bashir Khan. Bashir managed to elude authorities by re-locating to Rajasthan, Uttar Pradesh, Delhi, and West Bengal, after finally being apprehended in Bombay. His confession and subsequent flashbacks showcases the apathy shown by authorities who refused to intervene during the destruction of the sacred Babri Masjid by Hindu Kar Sevaks, and the inability of the police to fulfill their mandate and protect the vulnerable, forcing many to flee to other locations. The subsequent aftermath that succeeded in irreversibly polarizing communities in Bombay; Pakistan's involvement in training and arms' supplies; the main alleged suspects, Dawood Ibrahim, and Mushtaq Memon, sought refuge in Dubai, United Arab Emirates, while Indian politicians made a cosmetic move to ...                Written by\nrAjOo (gunwanti@hotmail.com)",
+      "actors": [
+        "Kay Kay Menon",
+        "Pavan Malhotra",
+        "Aditya Srivastava"
+      ],
+      "imdbRating": 8.6,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMmU1NDhjYTQtYjQxYy00MjlmLWIxMjItMjllMmE2NDRlY2ZhXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SY500_SX400_AL_.jpg"
+    },
+    {
+      "id": "38",
+      "title": "Taare Zameen Par",
+      "year": "2007",
+      "genres": [
+        "Drama",
+        "Family",
+        "Music"
+      ],
+      "contentRating": "PG",
+      "duration": "PT165M",
+      "releaseDate": "2008-12-26",
+      "averageRating": 8.5,
+      "originalTitle": "",
+      "storyline": "Ishaan Awasthi is an eight-year-old whose world is filled with wonders that no one else seems to appreciate; colours, fish, dogs and kites are just not important in the world of adults, who are much more interested in things like homework, marks and neatness. And Ishaan just cannot seem to get anything right in class. When he gets into far more trouble than his parents can handle, he is packed off to a boarding school to 'be disciplined'. Things are no different at his new school, and Ishaan has to contend with the added trauma of separation from his family. One day a new art teacher bursts onto the scene, Ram Shankar Nikumbh, who infects the students with joy and optimism. He breaks all the rules of 'how things are done' by asking them to think, dream and imagine, and all the children respond with enthusiasm, all except Ishaan. Nikumbh soon realizes that Ishaan is very unhappy, and he sets out to discover why. With time, patience and care, he ultimately helps Ishaan find himself.                Written by\nAnonymous",
+      "actors": [
+        "Darsheel Safary",
+        "Aamir Khan",
+        "Tanay Chheda"
+      ],
+      "imdbRating": 8.7,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTVmYTk2NjAtYzY3MS00YjFjLTlkYzktYzg3YzMyZDQyOWRiXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SY500_CR0,0,346,500_AL_.jpg"
+    },
+    {
+      "id": "39",
+      "title": "Jaane Bhi Do Yaaro",
+      "year": "1983",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Action"
+      ],
+      "contentRating": "R",
+      "duration": "PT132M",
+      "releaseDate": "1983-08-12",
+      "averageRating": 6.6,
+      "originalTitle": "",
+      "storyline": "Vinod (Naseeruddin Shah) and Sudhir (Ravi Baswani) are two professional photographers trying to start a photo studio. The first real assignment that they get, from the activist magazine Khabardar (literally meaning beware), draws them into the shady world of Bombay real estate. They discover that one of the biggest builders in Bombay, Tarneja, is trying to bribe Municipal Commissioner D'Mello (Satish Shah) into giving him a bridge contract. Meanwhile D'Mello is negotiating with Tarneja's arch rival Ahuja (Om Puri). The contract is finally awarded to a third person. By chance Vinod and Sudhir find out that Tarneja has murdered D'Mello...                Written by\n<bagchi@jhu.edu>",
+      "actors": [
+        "Naseeruddin Shah",
+        "Ravi Baswani",
+        "Bhakti Barve"
+      ],
+      "imdbRating": 8.6,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzQ0MzA3NDY3Nl5BMl5BanBnXkFtZTcwOTAwMzIzMg@@._V1_SY235_CR0,0,177,235_AL_.jpg"
+    },
+    {
+      "id": "40",
+      "title": "3 Idiots",
+      "year": "2009",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Adventure"
+      ],
+      "contentRating": "PG-13",
+      "duration": "PT170M",
+      "releaseDate": "2009-12-25",
+      "averageRating": 9.4,
+      "originalTitle": "",
+      "storyline": "Farhan Qureshi and Raju Rastogi want to re-unite with their fellow collegian, Rancho, after faking a stroke aboard an Air India plane, and excusing himself from his wife - trouser less - respectively. Enroute, they encounter another student, Chatur Ramalingam, now a successful businessman, who reminds them of a bet they had undertaken 10 years ago. The trio, while recollecting hilarious antics, including their run-ins with the Dean of Delhi's Imperial College of Engineering, Viru Sahastrabudhe, race to locate Rancho, at his last known address - little knowing the secret that was kept from them all this time.                Written by\nrAjOo (gunwanti@hotmail.com)",
+      "actors": [
+        "Aamir Khan",
+        "Madhavan",
+        "Mona Singh"
+      ],
+      "imdbRating": 8.4,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0e767d7b964d2469c89d242d6bc4d6619e2eec1c4829a6c8d97055a108e78a5b._RI_TTW_.jpg"
+    },
+    {
+      "id": "41",
+      "title": "Chupke Chupke",
+      "year": "1975",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "contentRating": "R",
+      "duration": "PT127M",
+      "releaseDate": "1975-04-11",
+      "averageRating": 7.4,
+      "originalTitle": "",
+      "storyline": "Raghav brags that he can smell a rat or an impersonator automatically, and Dr. Parimal Tripathi decides to take him on - result: funny family slapstick comedy, with a dose of pure Hindi and Urdu thrown in, especially the dialogue delivery by Om Prakash, Dharmendra, and Amitabh Bachchan. Notable songs are :Sare ga ma, ma sa re ga ma....\"; \"Ab ke sajan sawan me, aag lagegi badan mein, ghata barshegi, magar tarsegi nazar, mil na sakenghe do mahn ek hi aagan mein...\"; \"Chupke chupke chal di purvaiya, basuri bajaike raas rachaye daiya re daiya, chupke...\".                Written by\nrAjOo (gunwanti@hotmail.com)",
+      "actors": [
+        "Dharmendra",
+        "Sharmila Tagore",
+        "Amitabh Bachchan"
+      ],
+      "imdbRating": 8.5,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzMjMzMzU2N15BMl5BanBnXkFtZTgwMDkxOTE3NDE@._V1_SY250_CR0,0,187,250_AL_.jpg"
+    },
+    {
+      "id": "42",
+      "title": "Pather Panchali",
+      "year": "1955",
+      "genres": [
+        "Drama",
+        "Adventure",
+        "Action"
+      ],
+      "contentRating": "A",
+      "duration": "PT125M",
+      "releaseDate": "1955-08-26",
+      "averageRating": 7.4,
+      "originalTitle": "",
+      "storyline": "The story of a young boy, Apu, and life in his small Indian village. His parents are quite poor - his father Harihar, a writer and poet, gave away the family's fruit orchard to settle his brother's debts. His sister Durga and an old aunt also still lives with them. His mother Sarbojaya bears the brunt of the family's situation. She scrapes by and sells her personal possessions to put food on the table and has to bear the taunts of her neighbors as Durga is always stealing fruit from their orchard. Things get worse when Harihar disappears for five months and Durga falls ill. Even after Harihar returns, the family is left with few alternatives.                Written by\ngarykmcd",
+      "actors": [
+        "Kanu Bannerjee",
+        "Karuna Bannerjee",
+        "Subir Banerjee"
+      ],
+      "imdbRating": 8.4,
+      "posterurl": "https://m.media-amazon.com/images/M/MV5BMmFkNDY5OTktNzY3Yy00OTFlLThhNjktOTRhMmZjZmIxYjAxXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg"
+    },
+    {
+      "id": "43",
+      "title": "A Wednesday",
+      "year": "2008",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "contentRating": "R",
+      "duration": "PT104M",
+      "releaseDate": "2008-09-05",
+      "averageRating": 8.9,
+      "originalTitle": "",
+      "storyline": "A man calls up the Mumbai police, and tells them he has placed five different bombs in the city -- all set to go off in some time. He wants four terrorists in exchange. Does he get them? Who is behind it all? What's his motive? Is there more than meets the eye?                Written by\nSaurabh Roy",
+      "actors": [
+        "Anupam Kher",
+        "Naseeruddin Shah",
+        "Jimmy Shergill"
+      ],
+      "imdbRating": 8.4,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAzODEzMjE1MTJeQTJeQWpwZ15BbWU3MDE3NjQ5Mzk@._V1_SY492_SX324_AL_.jpg"
+    },
+    {
+      "id": "44",
+      "title": "Andaz Apna Apna",
+      "year": "1994",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Romance"
+      ],
+      "contentRating": "PG-13",
+      "duration": "PT160M",
+      "releaseDate": "1994-11-04",
+      "averageRating": 8.9,
+      "originalTitle": "",
+      "storyline": "Amar and Prem are two rivals who belonging to middle-class families with no scope of future advancement. Both individually, without the knowledge of the other decide to take matters into their hands and find ways to get rich quickly. Chaos and acrimony result when both find each other at loggerheads when both arrive to win the hand of the daughter of multi-millionaire Ram Gopal Bajaj amidst considerable upheavals when Shyam, the twin brother of Ram, decides to do away with Ram and assume his identity and thus take over the estate of the Bajaj family.                Written by\nSonia",
+      "actors": [
+        "Aamir Khan",
+        "Salman Khan",
+        "Raveena Tandon"
+      ],
+      "imdbRating": 8.4,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWE2MjhjMmMtNzQyMS00MmI0LTlkOTUtZDVlZjFlNmZkNDgyL2ltYWdlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SY462_CR0,0,331,462_AL_.jpg"
+    },
+    {
+      "id": "45",
+      "title": "Hera Pheri",
+      "year": "2000",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Thriller"
+      ],
+      "contentRating": "R",
+      "duration": "PT156M",
+      "releaseDate": "2000-03-31",
+      "averageRating": 7.1,
+      "originalTitle": "",
+      "storyline": "Baburao is a landlord in India, who is very near-sighted, and always in financial trouble. He has a tenant named Raja, who has not paid his rent for several months. He also has anther tenant named Shyam, who has come to the city to look for a job in his late father's place, but is unable to find employment. The three men quarrel amongst themselves frequently. Then one day, the three men get a phone call from a kidnapper named Kabira, and decide to make use of this phone call to overcome their financial problems - pretend to be the real kidnappers, increase the ransom amount, keep the incremental amount for themselves, and then give the original ransom demanded to Kabira. Will they get away with this idea?                Written by\nTanya",
+      "actors": [
+        "Akshay Kumar",
+        "Paresh Rawal",
+        "Sunil Shetty"
+      ],
+      "imdbRating": 8.4,
+      "posterurl": "https://m.media-amazon.com/images/M/MV5BNDExMTBlZTYtZWMzYi00NmEwLWEzZGYtOTA1MDhmNTc0ODZkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+    }
+  ],
+  "top-rated-movies": [
+    {
+      "id": "46",
+      "title": "Baazigar",
+      "year": "1993",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Musical"
+      ],
+      "contentRating": "PG-13",
+      "duration": "PT175M",
+      "releaseDate": "1993-11-12",
+      "averageRating": 6.5,
+      "originalTitle": "",
+      "storyline": "Widowed Madan Chopra lives a very wealthy lifestyle with two daughters, Seema and Priya. His passion is car racing, and realizing that he is not young anymore, has his last race and wins - only to find out that another competitor, Vicky Malhotra, let him win. Madan befriends Vicky, introduces him to Priya and invites him to work for him in Bombay. Vicky and Priya are attracted to each other, much to Madan's delight and he announces their marriage. Before that could happen, Seema kills herself by throwing herself down from the roof of a multi-storied building. While Madan wants to close this case due to embarrassment, Seema meets with her college friend, Police Inspector Karan, and together they begin to unravel a plot that may well end Madan and the lives of others as well.                Written by\nrAjOo (gunwanti@hotmail.com)",
+      "actors": [
+        "Shah Rukh Khan",
+        "Rakhee Gulzar",
+        "Kajol"
+      ],
+      "imdbRating": 7.8,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc3OTE1MDAxNV5BMl5BanBnXkFtZTgwNjM1NDk5NTE@._V1_SY250_CR0,0,187,250_AL_.jpg"
+    },
+    {
+      "id": "47",
+      "title": "Twenty-Four 24",
+      "year": "2016",
+      "genres": [
+        "Action",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "contentRating": "R",
+      "duration": "PT164M",
+      "releaseDate": "2016-05-06",
+      "averageRating": 7.5,
+      "originalTitle": "",
+      "storyline": "A Sci-Fi family revenge drama happening between a scientist, his evil brother and the scientist's son, over a time travel gadget.                Written by\nNaveen Sankaran",
+      "actors": [
+        "Suriya",
+        "Samantha Ruth Prabhu",
+        "Nithya Menon"
+      ],
+      "imdbRating": 8.2,
+      "posterurl": "https://m.media-amazon.com/images/M/MV5BOWU2MWVhYjQtNjBiMy00ZTEwLWE5NDctZTZiNjEwZTc3YWZhXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_.jpg"
+    },
+    {
+      "id": "48",
+      "title": "Jodhaa Akbar",
+      "year": "2008",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Biography"
+      ],
+      "contentRating": "R",
+      "duration": "PT213M",
+      "releaseDate": "2008-02-15",
+      "averageRating": 7.7,
+      "originalTitle": "",
+      "storyline": "Jodhaa Akbar is a sixteenth century love story about a marriage of alliance that gave birth to true love between a great Mughal Emperor, Akbar and a Rajput princess, Jodhaa. Politically, success knew no bounds for Emperor Akbar, After having secured the Hindu Kush, he furthered his realm by conquest until his empire extended from Afghanistan to the Bay of Bengal, and from the Himalayas to the Godhavari River. Through a shrewd blend of tolerance, generosity and force, Akbar won the allegiance of the Rajputs, the most belligerent Hindus. But little did Akbar know that when he married Jodhaa, a fiery Rajput princess, in order to further strengthen his relations with the Rajputs, he would in turn be embarking upon a new journey - the journey of true love. The daughter of King Bharmal of Amer, Jodhaa resented being reduced to a mere political pawn in this marriage of alliance, and Akbar's biggest challenge now did not merely lie in winning battles, but in winning the love of Jodhaa - a ...                Written by\nhEmRaJ (gavin_coolhgr@hotmail.com)",
+      "actors": [
+        "Hrithik Roshan",
+        "Aishwarya Rai Bachchan",
+        "Sonu Sood"
+      ],
+      "imdbRating": 7.6,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI1ODQ2MDIxMl5BMl5BanBnXkFtZTcwNTc3Mzk1MQ@@._V1_SY361_SX250_AL_.jpg"
+    },
+    {
+      "id": "49",
+      "title": "Wake Up Sid",
+      "year": "2009",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "contentRating": "R",
+      "duration": "PT138M",
+      "releaseDate": "2009-10-02",
+      "averageRating": 7.4,
+      "originalTitle": "",
+      "storyline": "In Mumbai, Sid Mehra is, in the words of his father, an arrogant, spoiled brat. He lives with a doting mother, subservient brother, and a father who covers his expenses and credit card bills. Sid takes his college finals then starts work at his father's business; he lasts less than a week before walking out. At a graduation party, he meets Aisha, newly arrived from Calcutta and set on becoming a writer. He shows her the city and helps her refurbish a rented flat. He asks if she'd like to progress from friend to something more, but she says no: he lacks ambition and isn't her type. Will her words, his exam results, a confrontation with his parents, and a break with his friends be enough to wake Sid up?                Written by\n<jhailey@hotmail.com>",
+      "actors": [
+        "Ranbir Kapoor",
+        "Konkona Sen Sharma",
+        "Supriya Pathak"
+      ],
+      "imdbRating": 7.6,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2NTk2MjU5NV5BMl5BanBnXkFtZTcwNTY0Nzg4Mg@@._V1_SY489_SX324_AL_.jpg"
+    },
+    {
+      "id": "50",
+      "title": "Saala Khadoos",
+      "year": "2016",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sport"
+      ],
+      "contentRating": "PG-13",
+      "duration": "PT109M",
+      "releaseDate": "2016-01-29",
+      "averageRating": 4.6,
+      "originalTitle": "",
+      "storyline": "An under-fire boxing coach, Prabhu is transferred from Hisar in Haryana to Chennai as his bosses at the Boxing Council do not like his disrespectful rule-breaking unconventional ways. In Chennai, he chances upon the raw fighting talent of Madhi, the sibling of aspiring boxer Lakshmi. He decides to put all his effort to tame Madhie and get her to shine but he is repeatedly put off by her playfulness & distrust.                Written by\nPipingHotViews",
+      "actors": [
+        "Madhavan",
+        "Nassar",
+        "Radha Ravi"
+      ],
+      "imdbRating": 7.7,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BM2Q5YmM3YjMtOTE2Mi00MDg5LThkZjctYzUxOWU2ZTM1ZDk4XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_SY334_SX250_AL_.jpg"
+    },
+    {
+      "id": "51",
+      "title": "Qayamat Se Qayamat Tak",
+      "year": "1988",
+      "genres": [
+        "Action",
+        "Drama",
+        "Musical"
+      ],
+      "contentRating": "R",
+      "duration": "PT162M",
+      "releaseDate": "1988-03-01",
+      "averageRating": 5.2,
+      "originalTitle": "",
+      "storyline": "Both Dhanraj Singh and Randhir Singh are two bitter and old time enemies. They faced a disastrous situation when there children, Raj and Rashmi falls deeply in love. They openly declares there hatred for one another and will do anything in there power even kill but they will not accept there children's choice. But Raj and Rashmi is dedicated to there love and is not willing to accept the fact that there dads are enemies.                Written by\ngAvInDrA (brave_loverboy2004@hotmail.com)",
+      "actors": [
+        "Aamir Khan",
+        "Juhi Chawla",
+        "Goga Kapoor"
+      ],
+      "imdbRating": 7.6,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4MDQyMDUzOF5BMl5BanBnXkFtZTcwMjUyNTAzMQ@@._V1_SY250_SX168_AL_.jpg"
+    },
+    {
+      "id": "52",
+      "title": "Delhi Belly",
+      "year": "2011",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "contentRating": "PG",
+      "duration": "PT103M",
+      "releaseDate": "2011-07-01",
+      "averageRating": 7.8,
+      "originalTitle": "",
+      "storyline": "Delhi-based Sonia agrees to deliver a package for Vladimir Dragunsky and asks her rather unkempt and debt-ridden fiancé, Tashi Malhotra, to do it for her. Tashi, in turn, asks one of two of his room-mates, Nitin. But Nitin forgets to do so due to an upset stomach ailment commonly known as 'Delhi Belly' as well as his plan to blackmail their landlord, Manish and asks the third roommate Arup to deliver the package. A gangster, Somayajulu, who was the recipient of this package, starts by brutally questioning Vladimir, and finds out that the package may be in the possession of the trio. While Tashi must deal with his attraction for Journalist Menaka and incur the wrath of her husband, Rajiv, he still has to fully come to terms whether or not he wants to marry Sonia. And the entry of ruthless Somayajulu and his gang seriously jeopardizes any plans Tashi and his friends may have for the future.                Written by\nrAjOo (gunwanti@hotmail.com)",
+      "actors": [
+        "Imran Khan",
+        "Vir Das",
+        "Kunaal Roy Kapur"
+      ],
+      "imdbRating": 7.6,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTI3ODQwNDAzN15BMl5BanBnXkFtZTcwMDg5NDExNg@@._V1_SY360_SX250_AL_.jpg"
+    },
+    {
+      "id": "53",
+      "title": "Magadheera",
+      "year": "2009",
+      "genres": [
+        "Action",
+        "Drama",
+        "Romance"
+      ],
+      "contentRating": "R",
+      "duration": "PT147M",
+      "releaseDate": "2009-07-30",
+      "averageRating": 8.1,
+      "originalTitle": "",
+      "storyline": "In 1609 AD, Mitravinda, a princess, and Kala Bhairava, the warrior that she loved, die. 400 years later, the warrior is reincarnated as Harsha, a motorcycle stuntman. He brushes hands with a girl and sparks fly as he begins to recall his past life. Knowing that he is destined to love this young woman, he sets about trying to identify her. Indu does not remember her past life and keeps Harsha at a distance; playing tricks on him until she gets to know him better. However, just as the two begin to fall in love, a sinister force from their shared past returns!                Written by\nL. Hamre",
+      "actors": [
+        "Kajal Aggarwal",
+        "Dev Gill",
+        "Srihari"
+      ],
+      "imdbRating": 7.7,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzQxNWE0NjctMzgxZC00NTdlLTkxMWUtNGM1MmRiYjM4ZWIwXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SY500_CR0,0,333,500_AL_.jpg"
+    },
+    {
+      "id": "54",
+      "title": "Highway",
+      "year": "2014",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Romance"
+      ],
+      "contentRating": "R",
+      "duration": "PT133M",
+      "releaseDate": "2014-02-21",
+      "averageRating": 6.3,
+      "originalTitle": "",
+      "storyline": "A city girl - young, full of life - is on the highway at night with her fiancé. Suddenly, her life is swung away from the brocade and jewelry of marriage to the harsh brutality of abduction. Her life will never be the same again. The gang is in a panic; the girl is a big industrialist's daughter, his links in the corridors of power make ransom out of the question. But for the leader of this group sending her back is not an option. As the days pass by, the scenery changes, the girl feels that she has changed as well. Gradually, a strange bond begins to develop between the victim and the oppressor. It is in this captivity that she, for the first time, feels free.                Written by\nVikram Nayak",
+      "actors": [
+        "Alia Bhatt",
+        "Randeep Hooda",
+        "Durgesh Kumar"
+      ],
+      "imdbRating": 7.6,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE5NjkyNTczM15BMl5BanBnXkFtZTgwNDg4MzE5MDE@._V1_SY500_CR0,0,344,500_AL_.jpg"
+    },
+    {
+      "id": "55",
+      "title": "Aankhen",
+      "year": "2002",
+      "genres": [
+        "Comedy",
+        "Thriller",
+        "Crime"
+      ],
+      "contentRating": "R",
+      "duration": "PT165M",
+      "releaseDate": "2002-04-05",
+      "averageRating": 6.8,
+      "originalTitle": "",
+      "storyline": "Vijay Singh Rajput (Amitabh Bachchan) is a quirky manager of Vilasrao Jefferson Bank. He is extremely strict at work and believes in pushing his workers to the limit. This means that his superiors hold him in high regard for his unblemished reputation and excellent track record. But things go terribly wrong for the honest bank manager when he finds one of his own employees trying to con the customers. At this, he loses his temper and gets physical with the employee. This doesn't go down well with his superiors and they decide that Rajput is now a liability to the bank and they sack him. Amitabh can't believe the Board of Directors and his mind is filled with revenge and what better revenge than robbing the bank himself, ironic as it may sound. He decides that he must think of a plan that will hit the bank where it hurts the most - in its safe where all the money is kept. Rajput blackmails Neha (Sushmita Sen) to use her professional skills to help his plan, to train three blind men to ...                Written by\nAnonymous",
+      "actors": [
+        "Amitabh Bachchan",
+        "Akshay Kumar",
+        "Sushmita Sen"
+      ],
+      "imdbRating": 7.6,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmE2MTNkYTctN2FjYS00Zjc2LWFiOGQtNzFmZmE4YzM2NmM4XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SY500_SX345_AL_.jpg"
+    },
+    {
+      "id": "56",
+      "title": "Rockstar",
+      "year": "2011",
+      "genres": [
+        "Drama",
+        "Music",
+        "Musical"
+      ],
+      "contentRating": "R",
+      "duration": "PT159M",
+      "releaseDate": "2011-11-11",
+      "averageRating": 8.6,
+      "originalTitle": "",
+      "storyline": "The film follows Janardhan Jhakar in a series of flashbacks and flash forwards, how the small collage boy became an international rock sensation \"Jordan\". To chase his dreams of a rockstar, the wanna-be singer his counseled that music and feelings only come with pain. In the process of which, he meets Heer, a tough on the outside and popular college girl, the both become friends, and as time passes by his dreams of music fade away as they spend time together. When heer moves away, Janardhan is thrown out of his house because of family misunderstandings. As he bides his time at a local mosque, his passion for music comes back to life. He is soon signed by a record label, where he makes more enemies than friends, his tour takes him to Prague, where he is reunited with a married Heer. Things go awry when the two share an intimate moment, and Jordan his deported to India on trespassing charges filed by Heer's husband. Now an angry painful and lonely JORDAN embarks on his journey to become...                Written by\nEros International",
+      "actors": [
+        "Ranbir Kapoor",
+        "Nargis Fakhri",
+        "Shammi Kapoor"
+      ],
+      "imdbRating": 7.6,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTc3NzAxMjg4M15BMl5BanBnXkFtZTcwMDc2ODQwNw@@._V1_SY500_SX375_AL_.jpg"
+    },
+    {
+      "id": "57",
+      "title": "Piku",
+      "year": "2015",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Adventure"
+      ],
+      "contentRating": "PG",
+      "duration": "PT123M",
+      "releaseDate": "2015-05-08",
+      "averageRating": 6.6,
+      "originalTitle": "",
+      "storyline": "A quirky comedy about the relationship between a daughter and her aging father, whose eccentricities drive everyone crazy.",
+      "actors": [
+        "Amitabh Bachchan",
+        "Deepika Padukone",
+        "Irrfan Khan"
+      ],
+      "imdbRating": 7.6,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwOTMxNjc2OV5BMl5BanBnXkFtZTgwODQ4OTMxNTE@._V1_SY500_SX375_AL_.jpg"
+    },
+    {
+      "id": "58",
+      "title": "Socha Na Tha",
+      "year": "2005",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Adventure"
+      ],
+      "contentRating": "R",
+      "duration": "PT137M",
+      "releaseDate": "2005-03-04",
+      "averageRating": 7.2,
+      "originalTitle": "",
+      "storyline": "Mr. Oberoi is a wealthy industrialist, and lives a comfortable lifestyle, with this two sons. The elder son is married, and Mr Oberoi wants his second son, Viren, to marry too. He has already selected a bride for him in Aditi Malhotra. Though Viren has always lived in his father and brother's shadows, he is quite romantic at heart, and hopes to fall in love first and then marry the girl of his choice. The presence of Aditi prevents this, and he makes all attempts not to marry her. He succeeds, the wedding arrangements are all called off. Then he meets the girl of his dreams, Karen Fernandes, and proposes marriage to her. The only setback he sees that she is a Catholic, and he, a Hindu. However, that is soon overcome. Everything seems to go on smoothly between both the families, when Viren falls out of love with Karen, and wants to cancel the wedding. When questioned about his change in mind, he responds that he is in love with Aditi. But Aditi will not have anything to do with him ...                Written by\nrAjOo (gunwanti@hotmail.com)",
+      "actors": [
+        "Abhay Deol",
+        "Ayesha Takia",
+        "Ayesha Jhulka"
+      ],
+      "imdbRating": 7.6,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzMwNDcwNTAyOF5BMl5BanBnXkFtZTcwOTg2ODgzMQ@@._V1_SY250_CR0,0,176,250_AL_.jpg"
+    },
+    {
+      "id": "59",
+      "title": "Dil Se..",
+      "year": "1998",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Romance"
+      ],
+      "contentRating": "R",
+      "duration": "PT163M",
+      "releaseDate": "1998-08-21",
+      "averageRating": 8.3,
+      "originalTitle": "",
+      "storyline": "Amar Varma, a producer for Indian news radio, meets an enigmatic woman at a railroad station and then again at a hill station. He falls in love with her, but the woman, who calls herself Meghna, rejects and leaves him although she seems to be interested. Later, Varma agrees to marry his family's choice, Preeti. But suddenly Meghna is back, and what is the secret that she holds?                Written by\n<sunilm@nwu.edu>",
+      "actors": [
+        "Shah Rukh Khan",
+        "Manisha Koirala",
+        "Preity Zinta"
+      ],
+      "imdbRating": 7.8,
+      "posterurl": "https://m.media-amazon.com/images/M/MV5BNWFjNGIxYWUtZDFmNy00NzRkLThkYWItZjBiNTJlNGE3MTA0XkEyXkFqcGdeQXVyODE0NjUxNzY@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "60",
+      "title": "Devdas",
+      "year": "2002",
+      "genres": [
+        "Musical",
+        "Romance",
+        "Musical"
+      ],
+      "contentRating": "PG-13",
+      "duration": "PT185M",
+      "releaseDate": "2002-07-12",
+      "averageRating": 8.4,
+      "originalTitle": "",
+      "storyline": "The son of Zamindar Narayan Mukherjee, Devdas (Shahrukh Khan) was born with a silver spoon in his mouth. He grew up in the lush village of Taj Sonapur, where he spent his childhood, indulged by his lovely playmate Paro (Aishwarya). They grew up sharing a special relationship, in which they existed only to each other. Oblivious of all the differences of status and background, a bond that would never break grew between them. Slowly, it changed to love but it was still unsaid. But the reverie was broken when his family sent Devdas to London for education. Paro's world crashed knowing that her Devdas would be gone and she lit a diya, for it signified the fast coming back of her loved one. Years passed and Devdas returned. Devdas was besotted by her stunning beauty and longed to have her back. But Zamindar Narayan Mukherjee (Vijay Crishna), Devdas' father, met Paro's mother Sumitra's (Kiran Kher) marriage proposal with condescending arrogance. It caused a rift between the families and even...                Written by\nAnonymous",
+      "actors": [
+        "Shah Rukh Khan",
+        "Madhuri Dixit",
+        "Aishwarya Rai Bachchan"
+      ],
+      "imdbRating": 7.6,
+      "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2QxMGM4Y2QtMGFmMy00ZjZkLWExMWQtNTY1Yjc0MDFjZjY0XkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_SY500_CR0,0,345,500_AL_.jpg"
+    }
+  ],
+  "favourite": [
+    {
+      "id": 1,
+      "title": "Game Night",
+      "year": "2018",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "contentRating": "R",
+      "duration": "PT100M",
+      "releaseDate": "2018-02-28",
+      "averageRating": 6.9,
+      "originalTitle": "Game Night",
+      "storyline": "A group of friends who meet regularly for game nights find themselves trying to solve a murder mystery.",
+      "actors": [
+        "Rachel McAdams",
+        "Jesse Plemons",
+        "Jason Bateman"
+      ],
+      "imdbRating": 7.9,
+      "posterurl": "https://m.media-amazon.com/images/M/MV5BMjI3ODkzNDk5MF5BMl5BanBnXkFtZTgwNTEyNjY2NDM@._V1_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Area X: Annihilation",
+      "year": "2018",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "contentRating": "R",
+      "duration": "PT100M",
+      "releaseDate": "2018-02-23",
+      "averageRating": 5.4,
+      "originalTitle": "Annihilation",
+      "storyline": "A biologist's husband disappears. She puts her name forward for an expedition into an environmental disaster zone, but does not find what she's expecting. The expedition team is made up of the biologist, an anthropologist, a psychologist, a surveyor, and a linguist.",
+      "actors": [
+        "Tessa Thompson",
+        "Jennifer Jason Leigh",
+        "Natalie Portman"
+      ],
+      "imdbRating": 8.7,
+      "posterurl": "https://images.saymedia-content.com/.image/t_share/MTc2Nzk3NTcyMzMyMDcwNDgz/movies-like-annihilation.jpg"
+    }
+  ]
+}
